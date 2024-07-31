@@ -1,0 +1,5 @@
+homepage: "https://medium.com/@w.anatolii"
+documentation: "https://medium.com/@w.anatolii"
+versions:
+  - sha: f7f5141fbcb47ad06a80381fd891b504bfb4eed3
+    changeNotes: Initial release.
